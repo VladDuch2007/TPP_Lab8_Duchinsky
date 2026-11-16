@@ -1,0 +1,9 @@
+{
+  "name": "lab8-banking",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "sqlite3",
+    "sqlite-orm"
+  ],
+  "builtin-baseline": "d186940b2f0c4e8e5b4ff804af57d2a26fbfa091"
+}
